@@ -5,13 +5,18 @@ An Advanced Line-Following Robot with Sensor-based Obstacle Detection and Color 
 This project had eddited on 2017 and now I got a chance to upload on GitHub.
 
 - A:
+![IMG_1596](https://user-images.githubusercontent.com/92205834/236194801-6d100ec8-3145-4593-9399-4d8e7b6aa3aa.JPG)
+![IMG_1605](https://user-images.githubusercontent.com/92205834/236195146-3ce9d914-e840-4e3a-bee7-1efec9ed5a88.JPG)
 
 
 - B:
+![IMG_1616](https://user-images.githubusercontent.com/92205834/236195510-de90aa34-ab7e-48bd-ad1c-4a6832ee20be.JPG)
+![IMG_1620](https://user-images.githubusercontent.com/92205834/236195891-f04b2d27-9266-435b-a2ef-d42c8ee9823b.jpg)
 
 
 - C:
 
+![IMG_1618](https://user-images.githubusercontent.com/92205834/236196011-b4da9544-fffb-4814-a1fd-d7c40c0df6f0.JPG)
 
 
 
