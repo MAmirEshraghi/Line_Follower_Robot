@@ -1,8 +1,16 @@
 # Line Follower Robot
 An Advanced Line-Following Robot with Sensor-based Obstacle Detection and Color Detection and Crossing Feature 
 
+# Note: 
+This project had eddited on 2017 and now I got a chance to upload on GitHub.
+
+- A:
 
 
+- B:
+
+
+- C:
 
 
 
