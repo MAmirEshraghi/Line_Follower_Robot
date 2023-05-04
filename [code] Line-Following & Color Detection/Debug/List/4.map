@@ -1,0 +1,70 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+RsenKeyON                                                                         0x0514       2
+LsenKeyOFF                                                                        0x0516       2
+RsenKeyOFF                                                                        0x0518       2
+ColorNumL                                                                         0x051A       2
+ColorNumR                                                                         0x051C       2
+ColorCalL                                                                         0x051E       2
+ColorCalR                                                                         0x0520       2
+c                                                                                 0x0522       2
+d                                                                                 0x0524       2
+m                                                                                 0x0526      33
+p                                                                                 0x0547       2
+_seed                                                                             0x0549       4
+_base_y                                                                           0x054D       4
+_lcd_y                                                                            0x0551       1
+_lcd_maxx                                                                         0x0552       1
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+i                                                                                 R2.0      1bit
+l                                                                                 R4,R5        2
+DirectionR                                                                        R2.1      1bit
+DirectionL                                                                        R2.2      1bit
+SpeedR                                                                            R7           1
+SpeedL                                                                            R6           1
+V                                                                                 R9           1
+RS                                                                                R10,R11      2
+LsenKeyON                                                                         R12,R13      2
+K0                                                                                R2.3      1bit
+KP2                                                                               R2.4      1bit
+_lcd_x                                                                            R8           1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+timer0_ovf_isr                                                                    0x000AA     28
+timer2_ovf_isr                                                                    0x000C6     41
+read_adc                                                                          0x000EF     14
+LEDG                                                                              0x000FD     17
+LEDY                                                                              0x0010E     17
+LEDR                                                                              0x0011F     18
+Move                                                                              0x00131     12
+CalL                                                                              0x0016A     60
+Color                                                                             0x001A6    112
+LeftMove                                                                          0x00216    137
+RightMove                                                                         0x0029F    134
+Distinction                                                                       0x00325    103
+ReadSen                                                                           0x0038C    124
+LineFollowerRGB                                                                   0x00408    289
+LineFollower                                                                      0x00529    316
+main                                                                              0x00665    152
+put_buff_G101                                                                     0x006FD     64
+_print_G101                                                                       0x0073D    308
+sprintf                                                                           0x00871     52
+_lcd_write_nibble_G102                                                            0x008A5     37
+_lcd_write_data                                                                   0x008CA     13
+lcd_gotoxy                                                                        0x008D7     15
+lcd_clear                                                                         0x008E6     13
+lcd_putchar                                                                       0x008F3     26
+lcd_puts                                                                          0x0090D     17
+lcd_init                                                                          0x0091E     48
+strlen                                                                            0x0094E     12
+strlenf                                                                           0x0095A     13
