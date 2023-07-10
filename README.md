@@ -2,18 +2,16 @@
 An Advanced Line-Following Robot with Sensor-based Obstacle Detection, Color Detection, and Crossing Feature 
 
 - Note: the last edited version was related to 2017. Now, I get a chance to upload on GitHub.
+- extra informations will be added soon
 
-- A:
+- Album:
 ![01](https://github.com/MAmirEshraghi/Line_Follower_Robot/assets/92205834/aca131b1-9388-4bcc-bcc3-cee21365e084)
+
+![02](https://github.com/MAmirEshraghi/Line_Follower_Robot/assets/92205834/e5593408-d1e9-488c-bb8d-d52b17276f61)
 
 ![03](https://github.com/MAmirEshraghi/Line_Follower_Robot/assets/92205834/ec0518a5-fd66-4bab-9c9a-81210ff24e42)
 
-- B:
 ![IMG_1616](https://user-images.githubusercontent.com/92205834/236195510-de90aa34-ab7e-48bd-ad1c-4a6832ee20be.JPG)
-
-
-- C:
-
 
 
 
