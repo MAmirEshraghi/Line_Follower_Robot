@@ -5,6 +5,8 @@ An Advanced Line-Following Robot with Sensor-based Obstacle Detection, Color Det
 - extra information will be added soon
 
 - Album:
+![R04](https://github.com/user-attachments/assets/1f7359a5-27cb-465a-9d02-1a11ae5a0ce7)
+
 ![01](https://github.com/MAmirEshraghi/Line_Follower_Robot/assets/92205834/aca131b1-9388-4bcc-bcc3-cee21365e084)
 
 ![02](https://github.com/MAmirEshraghi/Line_Follower_Robot/assets/92205834/e5593408-d1e9-488c-bb8d-d52b17276f61)
